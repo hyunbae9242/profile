@@ -1,7 +1,3 @@
-# profile
-This repository contains my professional profile and architecture-focused portfolio. Actual production code is not publicly available due to NDA.
-
-
 # 김현배 | Backend Engineer · Founder / CEO
 
 웹 개발자로 커리어를 시작해,  
@@ -16,11 +12,8 @@ Java 백엔드를 중심으로
 
 ## 기본 정보
 - 이름: 김현배
-- 출생: 1992년
 - 이메일: hyunbae9242@gmail.com
 - GitHub: https://github.com/hyunbae9242
-- 거주지: 경기 고양시
-- 병역: 육군 병장 만기전역 (2012.12 ~ 2014.09)
 
 ---
 
